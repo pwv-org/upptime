@@ -4,9 +4,9 @@
     "url": "https://www-juwai.pwv.one",
     "icon": "https://icons.duckduckgo.com/ip3/www-juwai.pwv.one.ico",
     "slug": "juwai",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 152,
     "timeMonth": 230,
     "timeYear": 230,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-05": 0
+    }
   },
   {
     "name": "hinabian",
     "url": "https://www-hinabian.pwv.one",
     "icon": "https://icons.duckduckgo.com/ip3/www-hinabian.pwv.one.ico",
     "slug": "hinabian",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 1169,
     "timeMonth": 1787,
     "timeYear": 1787,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-05": 0
+    }
   },
   {
     "name": "shenjumiaosuan",
     "url": "https://www-shenjumiaosuan.pwv.one/",
     "icon": "https://icons.duckduckgo.com/ip3/www-shenjumiaosuan.pwv.one.ico",
     "slug": "shenjumiaosuan",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +55,18 @@
     "timeWeek": 428,
     "timeMonth": 435,
     "timeYear": 435,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-05": 0
+    }
   },
   {
     "name": "himawari",
     "url": "https://www-himawari-japan.pwv.one/",
     "icon": "https://icons.duckduckgo.com/ip3/www-himawari-japan.pwv.one.ico",
     "slug": "himawari",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,16 +75,18 @@
     "timeWeek": 281,
     "timeMonth": 396,
     "timeYear": 396,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-05": 0
+    }
   },
   {
     "name": "japan-property",
     "url": "https://www-japan-property.pwv.one/",
     "icon": "https://icons.duckduckgo.com/ip3/www-japan-property.pwv.one.ico",
     "slug": "japan-property",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +95,9 @@
     "timeWeek": 159,
     "timeMonth": 291,
     "timeYear": 291,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-05": 0
+    }
   },
   {
     "name": "inakanoseikatsu",
@@ -130,9 +140,9 @@
     "url": "https://www-ieichiba.pwv.one",
     "icon": "https://icons.duckduckgo.com/ip3/www-ieichiba.pwv.one.ico",
     "slug": "ieichiba",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -141,7 +151,9 @@
     "timeWeek": 261,
     "timeMonth": 583,
     "timeYear": 583,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-05": 0
+    }
   },
   {
     "name": "Google",
