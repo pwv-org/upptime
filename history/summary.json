@@ -4,10 +4,10 @@
     "url": "https://www-juwai.pwv.one",
     "icon": "https://icons.duckduckgo.com/ip3/www-juwai.pwv.one.ico",
     "slug": "juwai",
-    "status": "up",
+    "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "97.87%",
-    "uptimeWeek": "99.70%",
+    "uptimeDay": "97.86%",
+    "uptimeWeek": "99.69%",
     "uptimeMonth": "99.34%",
     "uptimeYear": "99.34%",
     "time": 260,
@@ -16,6 +16,7 @@
     "timeMonth": 260,
     "timeYear": 260,
     "dailyMinutesDown": {
+      "2025-02-14": 0,
       "2025-02-13": 31,
       "2025-02-05": 167
     }
